@@ -52,4 +52,4 @@
   - 2019 - <...> - Taras Shevchenko National University of Kiev, Faculty of Information Technology.
 
 ## English
-  - Level A1.
+  - Level A2.
