@@ -40,3 +40,16 @@
       request.send(null);
 
     }
+
+
+## Expirience:
+  - 2019 - 2020: Content management of an online store on OpenCart
+
+  - 2020 - 2021: Creation of an online store - https://electrowheels.herokuapp.com/ . Were involved such technologies as: HTML, CSS, JS, Ajax, Heroku.
+
+
+## Education:
+  - 2019 - <...> - Taras Shevchenko National University of Kiev, Faculty of Information Technology.
+
+## English
+  - Level A1.
